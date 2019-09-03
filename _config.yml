@@ -1,0 +1,13 @@
+title: Swiss Jekyll Theme
+description: A bold typographic theme inspired by Swiss design.
+github_repo: jekyll
+github_username: jekyll
+social_link: twitter
+social_username: jekyllrb
+theme_color: black
+remote_theme: broccolini/swiss
+remote_theme_layouts:
+  - default
+  - page
+  - post
+  - home
